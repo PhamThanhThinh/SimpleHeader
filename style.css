@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #000C18;
+}
+header {
+    color: #F7BA14;
+    font-family: cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 15px;
+    border: 12px solid #F7BA14;
+    border-bottom-color: #A47C0C;
+}
